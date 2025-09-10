@@ -13,10 +13,6 @@
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-123&layout=compact&theme=tokyonight)
 
 
-### Teste
-![Linguagens em Pizza](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-123&layout=pie&theme=radical)
-
-
 ### 📈 Gráfico de contribuições
 ![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=Kaue-123&theme=react-dark)
 
