@@ -7,13 +7,13 @@
 ---
 
 ### ⚡ Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Kue.carmo&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Kaue-123&show_icons=true&theme=radical)
 
 ### 🌐 Linguagens mais usadas
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kue.carmo&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-123&layout=compact&theme=radical)
 
 ### 📈 Gráfico de contribuições
-![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=Kue.carmo&theme=react-dark)
+![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=Kaue-123&theme=react-dark)
 
 ---
 
