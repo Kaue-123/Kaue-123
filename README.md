@@ -8,13 +8,3 @@
 
 ### ⚡ GitHub Stats
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Kaue-123&show_icons=true&theme=radical) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-123&layout=compact&theme=tokyonight)
-
-
-
-
----
-
-🔗
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
