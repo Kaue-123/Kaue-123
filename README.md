@@ -11,5 +11,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kaue-123&theme=tokyonight)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaue-123&theme=tokyo-night)
+
+
 ### ⚡ GitHub Stats
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Kaue-123&show_icons=true&theme=radical) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-123&layout=compact&theme=tokyonight)
