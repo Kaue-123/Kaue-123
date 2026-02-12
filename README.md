@@ -1,6 +1,6 @@
 ## 🐍 Snake eating my commits
 
-![snake gif](https://github.com/Kaue-123/Kaue-123/blob/output/github-snake.svg)
+![snake gif](https://github.com/Kaue-123/Kaue-123/blob/output/github-snake-dark.svg)
 
 💻 Apaixonado por tecnologia e programação  
 🚀 Sempre aprendendo novas linguagens e ferramentas  
