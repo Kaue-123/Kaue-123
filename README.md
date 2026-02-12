@@ -1,4 +1,5 @@
-## 🐍 Snake eating my commits
+Hi 👋! My name is Kauê and I'm a tech enthusiast from Brazil
+
 
 ![snake gif](https://github.com/Kaue-123/Kaue-123/blob/output/github-snake-dark.svg)
 
