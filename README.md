@@ -7,6 +7,3 @@ Feel free to reach out or follow my projects. I'm always open to new ideas and c
 ![snake gif](https://github.com/Kaue-123/Kaue-123/blob/output/github-snake-dark.svg)
 
 ---
-
-### ⚡ GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Kaue-123&theme=tokyonight)
