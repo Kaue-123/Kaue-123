@@ -1,4 +1,4 @@
-# Hi 👋! My name is Klee and I'm a tech enthusiast from Brazil
+# Hi 👋! My name is Kauê and I'm a tech enthusiast from Brazil
 
 Feel free to reach out or follow my projects. I'm always open to new ideas and collaborations! 🌟
 
