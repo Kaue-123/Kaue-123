@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>**
-<p align="left"><a href="https://www.linkedin.com/in/kau%C3%AA-carmo-carneiro-3957022a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Kaue-123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/kaue-carmo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Kaue-123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">🚀 A developer from Brazil, building internal web systems, multi-tenant SaaS and automations. Mostly backend and full-stack work: TypeScript and Python APIs, PostgreSQL, Docker, and the odd browser automation when a government website leaves no other way.</h3>**
 
