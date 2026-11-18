@@ -36,10 +36,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaue-123&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&exclude_repo=cortar_pdf,darf-utils&size_weight=0.4&count_weight=0.6&v=2" alt="GitHub top-langs Card" />
 </p>
 
-<p align="left">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaue-123&theme=react-dark&hide_border=false&area=true&days=30&custom_title=Contribution%20Graph%20(last%2030%20days)" alt="Contribution graph" />
-</p>
-
 ---
 
 ![snake gif](https://raw.githubusercontent.com/Kaue-123/Kaue-123/output/github-snake-dark.svg?v=2)
