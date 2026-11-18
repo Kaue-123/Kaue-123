@@ -38,4 +38,4 @@
 
 ---
 
-![snake gif](https://github.com/Kaue-123/Kaue-123/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Kaue-123/Kaue-123/output/github-snake-dark.svg?v=2)
