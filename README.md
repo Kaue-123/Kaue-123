@@ -17,9 +17,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **🏢 Multi-tenant web systems and process automation**
-- 🌱 I'm currently learning: **📚 Linux (Arch Linux), Hyprland, and agent-assisted workflows**
-- 🧰 My setup: **Arch Linux + Hyprland + Neovim**
+-  I'm currently working on: ** Multi-tenant web systems and process automation**
+-  I'm currently learning: ** Linux (Arch Linux), Hyprland, and agent-assisted workflows**
+-  My setup: **Arch Linux + Hyprland + Neovim**
 
 **<h3 align="left">Skills</h3>**
 
