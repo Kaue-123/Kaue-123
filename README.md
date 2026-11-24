@@ -33,5 +33,3 @@
 </p>
 
 ---
-
-![snake gif](https://raw.githubusercontent.com/Kaue-123/Kaue-123/output/github-snake-dark.svg?v=2)
